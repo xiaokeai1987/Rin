@@ -23,5 +23,5 @@ export async function runDbCommand(args: string[]) {
     return;
   }
 
-  console.log("Database commands:\n  rin db migrate\n  rin db fix-top-field");
+  console.log("Database commands:\n  小可爱 db migrate\n  小可爱 db fix-top-field");
 }
